@@ -1,0 +1,20 @@
+07-24 13:39:56 model_name: MLP
+07-24 13:39:56 data_name: CWRUSlice
+07-24 13:39:56 data_dir: /mnt/e/ccs/bearings/datasets/DataSet/CWRU Bearing Dataset --normlizetype mean-std --processing_type R_A --checkpoint_dir Benchmark_Results/Random_split/CWRUSlice/MLP_mean-std_augmentation
+07-24 13:39:56 normlizetype: 0-1
+07-24 13:39:56 processing_type: R_A
+07-24 13:39:56 cuda_device: 0
+07-24 13:39:56 checkpoint_dir: ./checkpoint
+07-24 13:39:56 pretrained: True
+07-24 13:39:56 batch_size: 5
+07-24 13:39:56 num_workers: 0
+07-24 13:39:56 opt: adam
+07-24 13:39:56 lr: 0.001
+07-24 13:39:56 momentum: 0.9
+07-24 13:39:56 weight_decay: 1e-05
+07-24 13:39:56 lr_scheduler: fix
+07-24 13:39:56 gamma: 0.1
+07-24 13:39:56 steps: 9
+07-24 13:39:56 max_epoch: 2
+07-24 13:39:56 print_step: 10
+07-24 13:39:56 using 1 gpus

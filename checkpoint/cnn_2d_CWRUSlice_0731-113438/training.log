@@ -1,0 +1,20 @@
+07-31 11:34:38 model_name: cnn_2d
+07-31 11:34:38 data_name: CWRUSlice
+07-31 11:34:38 data_dir: D:\Repo_svn\90_Work\01_CCSPHM\05_OpenSource\DataSet\CWRU Bearing Dataset
+07-31 11:34:38 normlizetype: 0-1
+07-31 11:34:38 processing_type: R_A
+07-31 11:34:38 cuda_device: 0
+07-31 11:34:38 checkpoint_dir: ./checkpoint
+07-31 11:34:38 pretrained: True
+07-31 11:34:38 batch_size: 64
+07-31 11:34:38 num_workers: 0
+07-31 11:34:38 opt: adam
+07-31 11:34:38 lr: 0.001
+07-31 11:34:38 momentum: 0.9
+07-31 11:34:38 weight_decay: 1e-05
+07-31 11:34:38 lr_scheduler: fix
+07-31 11:34:38 gamma: 0.1
+07-31 11:34:38 steps: 9
+07-31 11:34:38 max_epoch: 100
+07-31 11:34:38 print_step: 100
+07-31 11:34:38 using 1 cpu

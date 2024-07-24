@@ -1,0 +1,1 @@
+python train.py --model_name MLP --data_name CWRUSlice --data_dir "/mnt/e/ccs/bearings/datasets/DataSet/CWRU Bearing Dataset" --normlizetype mean-std --processing_type R_A --checkpoint_dir Benchmark_Results/Random_split/CWRUSlice/MLP_mean-std_augmentation --batch_size 5 --max_epoch 2 --print_step 10
